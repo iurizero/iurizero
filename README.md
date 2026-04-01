@@ -2,9 +2,10 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurizero)](https://github.com/anuraghazra/github-readme-stats) />
+ <img src="https://github-readme-stats.vercel.app/api?username=iurizero&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="Stats graph" />
 
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iurizero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" alt="Languages graph" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iurizero&" alt="Activity graph" />
 </div>
