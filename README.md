@@ -15,6 +15,11 @@
 </p>
 
 <div align="center">
+  <img height="165" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+  <img height="165" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iurizero&theme=github-dark&hide_border=true" alt="Gráfico de atividade no GitHub" />
 </div>
 
