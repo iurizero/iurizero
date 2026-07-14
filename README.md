@@ -1,102 +1,48 @@
-<h1 align="center">Hello world! I'm Iuri Costa!👾</h1>
+<h1 align="center">Olá! Eu sou Iuri Costa 👾</h1>
 
----
+<p align="center">
+  Estudante e desenvolvedor em formação, interessado em sistemas, automação e desenvolvimento de software.<br>
+  Atualmente, aprofundo meus conhecimentos em <strong>Java</strong>, <strong>Go</strong>, <strong>Python</strong> e no ecossistema Linux.
+</p>
 
- <img src="https://github-readme-stats.vercel.app/api?username=iurizero&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="Stats graph" />
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iurizero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" alt="Languages graph" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iurizero&" alt="Activity graph" />
-</div>
-
----
-
-<h2 align="center">💻 Minhas Principais Tecnologias</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux logo" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="Bash logo" />
-      <br>Bash
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java logo" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="Go logo" />
-      <br>Go
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python logo" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="Jupyter logo" />
-      <br>Jupyter
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="Django logo" />
-      <br>Django
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5 logo" />
-      <br>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3 logo" />
-      <br>CSS3
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript logo" />
-      <br>JavaScript
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🔗 Conecte-se Comigo</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/iuri-costa-ba6365230/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/iuri-costa-ba6365230/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/tavares.c_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  <a href="mailto:ijtac@discente.ifpe.edu.br">
+    <img src="https://img.shields.io/static/v1?message=E-mail%20IFPE&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="E-mail institucional" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100004935527708" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" />
-  </a>
-  <a href="https://wa.me/5581997922470" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Whatsapp logo" />
-  </a>
-  <a href="mailto:iuri.j.t@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Microsoft Outlook logo" />
-  </a>
-  <a href="mailto:iurihasagi@gmai.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-</div>
+</p>
 
 ---
 
 <div align="center">
-  <img align="right" height="250" src="https://i.postimg.cc/jjQWZSrZ/icegif-1279.gif" alt="Icegif animation" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iurizero&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=iurizero&locale=pt-br&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" alt="Linguagens mais usadas" />
+</div>
 
-  <h2 align="center">🎶 Tocando Agora</h2>
-  <a href="https://open.spotify.com/user/iury0">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=iury0&count=3&unique=false" alt="Spotify recently played" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iurizero&theme=github-dark&hide_border=true" alt="Gráfico de atividade no GitHub" />
 </div>
 
 ---
 
+<h2 align="center">💻 Tecnologias</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="48" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" />
+</p>
+
+---
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iurizero/iurizero/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/iurizero/iurizero/output/snake.svg" alt="Animação das contribuições no GitHub" />
 </div>
