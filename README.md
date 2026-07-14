@@ -14,13 +14,6 @@
   </a>
 </p>
 
----
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iurizero&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=iurizero&locale=pt-br&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" alt="Linguagens mais usadas" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iurizero&theme=github-dark&hide_border=true" alt="Gráfico de atividade no GitHub" />
 </div>
